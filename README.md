@@ -1,7 +1,7 @@
 # kakao-sessionlib
 > Auto GET KakaoTalk Authorize Info
 >
-> Need : su, root device, and some iq
+> Need : su, root device, and some friends
 >
 > `코드가 더러워서 부끄러워요 !`
 
